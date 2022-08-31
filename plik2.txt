@@ -1,1 +1,2 @@
 Pierwszy komentarz dotyczący drugiego pliku
+Drugi komentarz dotycząćy drugiego pliku
